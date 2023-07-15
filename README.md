@@ -11,12 +11,14 @@ Everything you need in a modern bank and more.
 
 ## What is Bankist?
 
-Bankist is a fictional online bank. It is a project introduced by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a> in order to practice DOM manipulation and user interaction. It has tons of array methods and real-world best practices. Bankist has an option to log in to the account and use different functionalities, almost like in an actual bank! (This Bankist website is designed to learn JavaScript functionalities, So, I didn't focus on responsive design.)
+Bankist is a fictional online bank. It is a project introduced by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a> in order to practice DOM manipulation and user interaction. It has tons of array methods and real-world best practices. Bankist has an option to log in to the account and use different functionalities, almost like in an actual bank!
+
+(This Bankist website is designed to practice JavaScript functionalities, So, I didn't focus on responsive design.)
 
 ## Functionalities
 
 - Login
-- Transfer a value to another account (enter the username(js, jd, stw or ss) to input field of transfer to)
+- Transfer a value to another account ( enter the username(js, jd, stw or ss) to input field of transfer to )
 - Get loans
 - Close (delete) account
 
