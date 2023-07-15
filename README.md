@@ -16,7 +16,7 @@ Bankist is a fictional online bank. It is a project introduced by <a href="https
 ## Functionalities
 
 - Login
-- Transfer a value to another account
+- Transfer a value to another account (enter the username(js, jd, stw or ss) to input field of transfer to)
 - Get loans
 - Close (delete) account
 
