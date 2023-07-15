@@ -1,3 +1,5 @@
+<img src="./bankist-preview.png" ></img>
+
 # Bankist
 
 <a href="https://erenymo.github.io/bankist-website/">Bankist</a> is a fictional and minimalistic online banking application.
