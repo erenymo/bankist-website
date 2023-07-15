@@ -1,6 +1,6 @@
 # Bankist
 
-<a href="https://erenymo.github.io/bankist-website/" target="_blank">Bankist</a> is a fictional and minimalistic online banking application.
+<a href="https://erenymo.github.io/bankist-website/">Bankist</a> is a fictional and minimalistic online banking application.
 
 Everything you need in a modern bank and more.
 · 100% digital bank
